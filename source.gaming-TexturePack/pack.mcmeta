@@ -1,0 +1,13 @@
+{
+  "pack": {
+    "pack_format": 6,
+    "description": "Pack de texturas del sv de discord\n Version: 1.0"
+  },
+  "language":{
+	"es_sg":{
+		"name": "Español (Sourcegaming)",
+		"region": "Colombia-Mexico",
+		"bidirectional": false
+	}
+  }
+}
